@@ -21,4 +21,8 @@ New Seciruty Path()
 {
  //New Sample Code
 }
+feature1()
+{
+ //Sample Code
+}
 }
